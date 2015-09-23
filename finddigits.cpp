@@ -4,7 +4,7 @@
 #include <stdlib.h>
 using namespace std;
 int main() {
-	long N,dig,T,i,count,num;
+	long int N,dig,T,i,count,num;
     	cin>>T;
     	for(i=0;i<T;i++)
     	{

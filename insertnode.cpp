@@ -11,8 +11,6 @@
 */
 Node* InsertNth(Node *head, int data, int position)
 {
-  // Complete this method only
-  // Do not write main function. 
     Node *cur=NULL,*temp=new Node();
     cur=head;
     if(position--==0)

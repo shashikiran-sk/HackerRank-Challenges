@@ -7,7 +7,6 @@ using namespace std;
 
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
 	int a[100][100],j,N,d1=0,d2=0;
    	cin>>N;
         for(int i=0;i<N;i++)

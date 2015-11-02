@@ -36,7 +36,6 @@ the permutation tuples will be produced in sorted order.
 
 
 Sample Input
-
 HACK 2
 
 Sample Output

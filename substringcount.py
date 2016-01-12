@@ -6,5 +6,5 @@ for i in range(len(str1)-len(substr)+1):
         if str1[j+i]!=substr[j]:
             break;
     if j==len(substr)-1:
-        count=count+1
+        count=count+1;
 print(count)

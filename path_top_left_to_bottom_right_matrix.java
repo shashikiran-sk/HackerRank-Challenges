@@ -3,7 +3,7 @@
  */
 
 /**
- * @author s00377515
+ * @author Shashi Kiran S
  *
  */
 public class paths_in_matrix {

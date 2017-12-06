@@ -11,7 +11,7 @@ public class paths_in_matrix {
 	/**
 	 * @param args
 	 */
-	static int n=8;
+	static int n=4;
 	private boolean[][] board=new boolean[n][n];
 	long numPaths=0;
 	paths_in_matrix(){
